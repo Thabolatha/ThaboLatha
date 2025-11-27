@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Thabo Latha I’m an aspiring data analyst with 0–1 years of experience, a background in aviation, and a growing portfolio of real-world analytics work. I enjoy digging into data, understanding behaviour patterns, and turning findings into simple, practical insights. I’m currently expanding my skills in SQL, Snowflake, Excel, and data visualization while working on projects like car sales trends, coffee shop analytics, and viewership insights.
 
 <!--
 **Thabolatha/ThaboLatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
