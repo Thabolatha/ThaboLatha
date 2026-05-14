@@ -1,51 +1,95 @@
-## # Hi, I'm Thabo Latha! 👋✈️
+# Hi, I'm Thabo Latha 👋📊
 
-I’m an aspiring data analyst with 0–1 years of experience, a background in aviation, and a growing portfolio of real-world analytics work. I enjoy digging into data, understanding behaviour patterns, and turning findings into simple, practical insights. I'm skilled in SQL across Snowflake,Databricks, BigQuery, and MySQL Server, and I use Excel and Power BI to create clear, meaningful visualisations. My project work includes java appliation and coffee shop performance analytics
+## Data Analyst | SQL | Power BI | Business Intelligence | Data Storytelling
 
----
+I am an aspiring Data Analyst passionate about transforming raw data into clear business decisions. I work across SQL, Excel, Power BI, Databricks, and reporting environments to solve real business problems through structured analysis, dashboards, and strategic insights.
 
-## 🔧 Tech Stack & Tools
+My focus is on sales analytics, operational performance, customer behavior, and business intelligence reporting. I enjoy identifying patterns, improving reporting visibility, and turning complex datasets into practical recommendations that support smarter decision-making.
 
-Here are the tools I use to bring data to life:
-
-- **SQL** (Snowflake, Databricks, BigQuery, MySQL Server)  
-- **Excel** (Dashboards, Pivot Tables, Data Cleaning)  
-- **Power BI** (Data Modelling, Reports, DAX)  
-- **Python** (Pandas, NumPy — beginner)  
-- **Canva** (Data storytelling & presentations)  
-- **Figma / Miro** (Planning & workflows)
+I am building a strong portfolio of real-world analytics projects across automotive sales, retail operations, and business performance reporting while continuously strengthening my technical, analytical, and storytelling skills.
 
 ---
 
-## 📊 Featured Projects
+## Tech Stack & Tools
 
-
-### ☕ Bright Coffee Shop Analytics
-An end-to-end pipeline from **CSV → DataBricks → Excel → Insights**.  
-Analysed peak hours, best-selling categories, store performance, and customer patterns.  
-Also built a full Miro-style planning board.  
-Tools: databricks SQL, Excel, Canva
-
-
+* SQL (Databricks, Snowflake, MySQL, BigQuery)
+* Microsoft Excel (Pivot Tables, Dashboards, KPI Reporting)
+* Power BI (DAX, Data Modelling, Interactive Reports)
+* Canva (Executive Presentation Design)
+* Miro (Business Planning & Process Mapping)
+* GitHub (Project Documentation & Portfolio Management)
 
 ---
 
-## 🌱 What I'm Currently Developing
-- Stronger SQL workflows & pipelines  
-- Better dashboards in Power BI  
-- Cleaner analysis storytelling  
-- Data projects that combine analytics + aviation  
+## Featured Projects
+
+### Bright Motors Car Sales Analysis
+
+End-to-end dealership performance analysis focused on revenue optimization, inventory planning, and strategic dealership expansion.
+
+### Key Focus Areas
+
+* Revenue by Make and Model
+* Regional Performance Analysis
+* Profit Margin Classification
+* Mileage vs Selling Price Relationship
+* Body Type & Transmission Preferences
+* Executive Recommendations for Management
+
+**Tools:** Databricks SQL, Excel, Canva, GitHub
 
 ---
 
-## 🌐 Let's Connect
-- **GitHub:** https://github.com/ThaboLatha  
-- **Email:** Mr.latha.sir@gmail.com
+### Bright Coffee Shop Analytics
+
+Retail sales and operations reporting project focused on improving store visibility, customer insights, and performance tracking.
+
+### Key Focus Areas
+
+* Peak Sales Hours Analysis
+* Store Performance Evaluation
+* Product Category Trends
+* Revenue Performance Analysis
+* Customer Purchase Patterns
+* Dashboard-Based KPI Monitoring
+
+**Tools:** SQL, Excel, Databricks, Canva
 
 ---
 
-✨ Combining aviation discipline with data analytics to tell meaningful stories.
+### Bright TV Case Study
 
+Business performance and operational reporting analysis designed to improve decision-making, reporting clarity, and business efficiency.
 
+### Key Focus Areas
 
-  
+* Sales Performance Analysis
+* Regional and Branch Performance
+* Product & Service Trend Analysis
+* Operational Reporting Improvements
+* Dashboard Development
+* Strategic Business Recommendations
+
+**Tools:** SQL, Excel, Databricks, Canva
+
+---
+
+## Currently Developing
+
+* Advanced SQL optimization and performance tuning
+* Stronger Power BI dashboard storytelling
+* Portfolio website deployment
+* Business-focused analytics projects with executive reporting
+* Data storytelling for leadership decision-making
+
+---
+
+## Let’s Connect
+
+**GitHub:** https://github.com/Thabolatha
+**Email:** [mr.latha.sir@gmail.com](mailto:mr.latha.sir@gmail.com)
+
+---
+
+⭐ I believe good analytics should not only explain what happened — but guide what should happen next.
+
