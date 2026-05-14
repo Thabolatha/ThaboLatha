@@ -2,7 +2,7 @@
 
 ## Data Analyst | SQL | Power BI | Business Intelligence | Data Storytelling
 
-I am an aspiring Data Analyst passionate about transforming raw data into clear business decisions. I work across SQL, Excel, Power BI, Databricks, and reporting environments to solve real business problems through structured analysis, dashboards, and strategic insights.
+A Data Analyst passionate about transforming raw data into clear business decisions. I work across SQL, Excel, Power BI, Databricks, and reporting environments to solve real business problems through structured analysis, dashboards, and strategic insights.
 
 My focus is on sales analytics, operational performance, customer behavior, and business intelligence reporting. I enjoy identifying patterns, improving reporting visibility, and turning complex datasets into practical recommendations that support smarter decision-making.
 
